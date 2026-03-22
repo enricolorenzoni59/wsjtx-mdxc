@@ -15,6 +15,7 @@ Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuov
 - Fornire screenshot e video del comportamento errato
 - Fornire i file WAV (se rilevanti)
 - Fornire ALL.TXT e wsjtx_log.adi (se rilevanti)
+- Aprire una issue in https://github.com/enricolorenzoni59/wsjtx-mdxc/issues
 
 ## Sequenza QSO
 
