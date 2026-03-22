@@ -8,6 +8,14 @@ Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuov
 - Nelle impostazioni, abilita "MDXC Contest Settings" e seleziona provincia e numero MDXC (0 se non socio)
 - Inizia a chiamare CQ con "CQ MDXC <call> <locatore>"
 
+## Come segnalare un baco
+
+- Attivare nel menu "Save", "Save all" per collezionare i file WAV utili per verificare problemi di errata decodifica
+- Fornire la versione in uso (si trova nella barra del titolo, es. "MDXC mod v.58d12345")
+- Fornire screenshot e video del comportamento errato
+- Fornire i file WAV (se rilevanti)
+- Fornire ALL.TXT e wsjtx_log.adi (se rilevanti)
+
 ## Sequenza QSO
 
 - CQ MDXC I1AAA JN11
