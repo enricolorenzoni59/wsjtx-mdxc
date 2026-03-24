@@ -23,3 +23,8 @@ Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuov
 - I1AAA I2BBB PI 123
 - I2BBB I1AAA R RM 123
 - I1AAA I2BBB RR73
+
+## Domande frequenti
+
+- Come si scarica il binario?
+  - Cliccando sul file, poi cliccando "View raw"
