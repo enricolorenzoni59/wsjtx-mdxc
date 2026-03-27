@@ -5,6 +5,9 @@ Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuov
 ## Istruzioni
 
 - Scarica ed installa questa versione di WSJT-X
+- L'installer Windows propone di default una cartella separata, `C:\WSJT\wsjtx-mdxc`
+- L'installer Windows non modifica il `PATH` di sistema
+- Su Windows, impostazioni, log e file salvati finiscono in `Documenti\\WSJT-X-MDXC`
 - Nelle impostazioni, abilita "MDXC Contest Settings" e seleziona provincia e numero MDXC (0 se non socio)
 - Inizia a chiamare CQ con "CQ MDXC <call> <locatore>"
 
