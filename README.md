@@ -30,4 +30,9 @@ Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuov
 ## Domande frequenti
 
 - Come si scarica il binario?
-  - Cliccando sul file, poi cliccando "View raw"
+  - Aprendo `https://github.com/enricolorenzoni59/wsjtx-mdxc/releases/latest`
+  - Scaricando l'asset giusto per il tuo sistema
+
+## Requisiti di sistema
+
+- Windows 10 x64
