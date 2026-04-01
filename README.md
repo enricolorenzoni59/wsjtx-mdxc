@@ -1,4 +1,4 @@
-# WSJT-X per contest MDXC
+﻿# WSJT-X PER MDXC v.3ae3e8d3
 
 Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuovo tipo di messaggio, pensato per poter scambiare provincia e numero MDXC (opzionale) durante il Contest Italia (https://www.mdxc.org/contestitalia/).
 
@@ -36,3 +36,4 @@ Questo fork di WSJT-X Improved e' specifico per i contest MDXC. Supporta un nuov
 ## Requisiti di sistema
 
 - Windows 10 x64
+
